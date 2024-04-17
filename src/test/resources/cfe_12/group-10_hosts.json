@@ -1,0 +1,991 @@
+{
+  "version": 1,
+  "nomatch": "unknown",
+  "type": "string",
+  "table": [
+    {
+      "index": "group-10-100",
+      "value": true
+    },
+    {
+      "index": "group-10-101",
+      "value": true
+    },
+    {
+      "index": "group-10-102",
+      "value": true
+    },
+    {
+      "index": "group-10-103",
+      "value": true
+    },
+    {
+      "index": "group-10-104",
+      "value": true
+    },
+    {
+      "index": "group-10-105",
+      "value": true
+    },
+    {
+      "index": "group-10-106",
+      "value": true
+    },
+    {
+      "index": "group-10-107",
+      "value": true
+    },
+    {
+      "index": "group-10-108",
+      "value": true
+    },
+    {
+      "index": "group-10-109",
+      "value": true
+    },
+    {
+      "index": "group-10-10",
+      "value": true
+    },
+    {
+      "index": "group-10-110",
+      "value": true
+    },
+    {
+      "index": "group-10-111",
+      "value": true
+    },
+    {
+      "index": "group-10-112",
+      "value": true
+    },
+    {
+      "index": "group-10-113",
+      "value": true
+    },
+    {
+      "index": "group-10-114",
+      "value": true
+    },
+    {
+      "index": "group-10-115",
+      "value": true
+    },
+    {
+      "index": "group-10-116",
+      "value": true
+    },
+    {
+      "index": "group-10-117",
+      "value": true
+    },
+    {
+      "index": "group-10-118",
+      "value": true
+    },
+    {
+      "index": "group-10-119",
+      "value": true
+    },
+    {
+      "index": "group-10-11",
+      "value": true
+    },
+    {
+      "index": "group-10-120",
+      "value": true
+    },
+    {
+      "index": "group-10-121",
+      "value": true
+    },
+    {
+      "index": "group-10-122",
+      "value": true
+    },
+    {
+      "index": "group-10-123",
+      "value": true
+    },
+    {
+      "index": "group-10-124",
+      "value": true
+    },
+    {
+      "index": "group-10-125",
+      "value": true
+    },
+    {
+      "index": "group-10-126",
+      "value": true
+    },
+    {
+      "index": "group-10-127",
+      "value": true
+    },
+    {
+      "index": "group-10-128",
+      "value": true
+    },
+    {
+      "index": "group-10-129",
+      "value": true
+    },
+    {
+      "index": "group-10-12",
+      "value": true
+    },
+    {
+      "index": "group-10-130",
+      "value": true
+    },
+    {
+      "index": "group-10-131",
+      "value": true
+    },
+    {
+      "index": "group-10-132",
+      "value": true
+    },
+    {
+      "index": "group-10-133",
+      "value": true
+    },
+    {
+      "index": "group-10-134",
+      "value": true
+    },
+    {
+      "index": "group-10-135",
+      "value": true
+    },
+    {
+      "index": "group-10-136",
+      "value": true
+    },
+    {
+      "index": "group-10-137",
+      "value": true
+    },
+    {
+      "index": "group-10-138",
+      "value": true
+    },
+    {
+      "index": "group-10-139",
+      "value": true
+    },
+    {
+      "index": "group-10-13",
+      "value": true
+    },
+    {
+      "index": "group-10-140",
+      "value": true
+    },
+    {
+      "index": "group-10-141",
+      "value": true
+    },
+    {
+      "index": "group-10-142",
+      "value": true
+    },
+    {
+      "index": "group-10-143",
+      "value": true
+    },
+    {
+      "index": "group-10-144",
+      "value": true
+    },
+    {
+      "index": "group-10-145",
+      "value": true
+    },
+    {
+      "index": "group-10-146",
+      "value": true
+    },
+    {
+      "index": "group-10-147",
+      "value": true
+    },
+    {
+      "index": "group-10-148",
+      "value": true
+    },
+    {
+      "index": "group-10-149",
+      "value": true
+    },
+    {
+      "index": "group-10-14",
+      "value": true
+    },
+    {
+      "index": "group-10-150",
+      "value": true
+    },
+    {
+      "index": "group-10-151",
+      "value": true
+    },
+    {
+      "index": "group-10-152",
+      "value": true
+    },
+    {
+      "index": "group-10-153",
+      "value": true
+    },
+    {
+      "index": "group-10-154",
+      "value": true
+    },
+    {
+      "index": "group-10-155",
+      "value": true
+    },
+    {
+      "index": "group-10-156",
+      "value": true
+    },
+    {
+      "index": "group-10-157",
+      "value": true
+    },
+    {
+      "index": "group-10-158",
+      "value": true
+    },
+    {
+      "index": "group-10-159",
+      "value": true
+    },
+    {
+      "index": "group-10-15",
+      "value": true
+    },
+    {
+      "index": "group-10-160",
+      "value": true
+    },
+    {
+      "index": "group-10-161",
+      "value": true
+    },
+    {
+      "index": "group-10-162",
+      "value": true
+    },
+    {
+      "index": "group-10-163",
+      "value": true
+    },
+    {
+      "index": "group-10-164",
+      "value": true
+    },
+    {
+      "index": "group-10-165",
+      "value": true
+    },
+    {
+      "index": "group-10-166",
+      "value": true
+    },
+    {
+      "index": "group-10-167",
+      "value": true
+    },
+    {
+      "index": "group-10-168",
+      "value": true
+    },
+    {
+      "index": "group-10-169",
+      "value": true
+    },
+    {
+      "index": "group-10-16",
+      "value": true
+    },
+    {
+      "index": "group-10-170",
+      "value": true
+    },
+    {
+      "index": "group-10-171",
+      "value": true
+    },
+    {
+      "index": "group-10-172",
+      "value": true
+    },
+    {
+      "index": "group-10-173",
+      "value": true
+    },
+    {
+      "index": "group-10-174",
+      "value": true
+    },
+    {
+      "index": "group-10-175",
+      "value": true
+    },
+    {
+      "index": "group-10-176",
+      "value": true
+    },
+    {
+      "index": "group-10-177",
+      "value": true
+    },
+    {
+      "index": "group-10-178",
+      "value": true
+    },
+    {
+      "index": "group-10-179",
+      "value": true
+    },
+    {
+      "index": "group-10-17",
+      "value": true
+    },
+    {
+      "index": "group-10-180",
+      "value": true
+    },
+    {
+      "index": "group-10-181",
+      "value": true
+    },
+    {
+      "index": "group-10-182",
+      "value": true
+    },
+    {
+      "index": "group-10-183",
+      "value": true
+    },
+    {
+      "index": "group-10-184",
+      "value": true
+    },
+    {
+      "index": "group-10-185",
+      "value": true
+    },
+    {
+      "index": "group-10-186",
+      "value": true
+    },
+    {
+      "index": "group-10-187",
+      "value": true
+    },
+    {
+      "index": "group-10-188",
+      "value": true
+    },
+    {
+      "index": "group-10-189",
+      "value": true
+    },
+    {
+      "index": "group-10-18",
+      "value": true
+    },
+    {
+      "index": "group-10-190",
+      "value": true
+    },
+    {
+      "index": "group-10-191",
+      "value": true
+    },
+    {
+      "index": "group-10-192",
+      "value": true
+    },
+    {
+      "index": "group-10-193",
+      "value": true
+    },
+    {
+      "index": "group-10-194",
+      "value": true
+    },
+    {
+      "index": "group-10-195",
+      "value": true
+    },
+    {
+      "index": "group-10-196",
+      "value": true
+    },
+    {
+      "index": "group-10-197",
+      "value": true
+    },
+    {
+      "index": "group-10-198",
+      "value": true
+    },
+    {
+      "index": "group-10-199",
+      "value": true
+    },
+    {
+      "index": "group-10-19",
+      "value": true
+    },
+    {
+      "index": "group-10-200",
+      "value": true
+    },
+    {
+      "index": "group-10-201",
+      "value": true
+    },
+    {
+      "index": "group-10-202",
+      "value": true
+    },
+    {
+      "index": "group-10-203",
+      "value": true
+    },
+    {
+      "index": "group-10-204",
+      "value": true
+    },
+    {
+      "index": "group-10-205",
+      "value": true
+    },
+    {
+      "index": "group-10-206",
+      "value": true
+    },
+    {
+      "index": "group-10-207",
+      "value": true
+    },
+    {
+      "index": "group-10-208",
+      "value": true
+    },
+    {
+      "index": "group-10-209",
+      "value": true
+    },
+    {
+      "index": "group-10-20",
+      "value": true
+    },
+    {
+      "index": "group-10-210",
+      "value": true
+    },
+    {
+      "index": "group-10-211",
+      "value": true
+    },
+    {
+      "index": "group-10-212",
+      "value": true
+    },
+    {
+      "index": "group-10-213",
+      "value": true
+    },
+    {
+      "index": "group-10-214",
+      "value": true
+    },
+    {
+      "index": "group-10-215",
+      "value": true
+    },
+    {
+      "index": "group-10-216",
+      "value": true
+    },
+    {
+      "index": "group-10-217",
+      "value": true
+    },
+    {
+      "index": "group-10-218",
+      "value": true
+    },
+    {
+      "index": "group-10-219",
+      "value": true
+    },
+    {
+      "index": "group-10-21",
+      "value": true
+    },
+    {
+      "index": "group-10-220",
+      "value": true
+    },
+    {
+      "index": "group-10-221",
+      "value": true
+    },
+    {
+      "index": "group-10-222",
+      "value": true
+    },
+    {
+      "index": "group-10-223",
+      "value": true
+    },
+    {
+      "index": "group-10-224",
+      "value": true
+    },
+    {
+      "index": "group-10-225",
+      "value": true
+    },
+    {
+      "index": "group-10-226",
+      "value": true
+    },
+    {
+      "index": "group-10-227",
+      "value": true
+    },
+    {
+      "index": "group-10-228",
+      "value": true
+    },
+    {
+      "index": "group-10-229",
+      "value": true
+    },
+    {
+      "index": "group-10-22",
+      "value": true
+    },
+    {
+      "index": "group-10-230",
+      "value": true
+    },
+    {
+      "index": "group-10-231",
+      "value": true
+    },
+    {
+      "index": "group-10-232",
+      "value": true
+    },
+    {
+      "index": "group-10-233",
+      "value": true
+    },
+    {
+      "index": "group-10-234",
+      "value": true
+    },
+    {
+      "index": "group-10-235",
+      "value": true
+    },
+    {
+      "index": "group-10-236",
+      "value": true
+    },
+    {
+      "index": "group-10-237",
+      "value": true
+    },
+    {
+      "index": "group-10-238",
+      "value": true
+    },
+    {
+      "index": "group-10-239",
+      "value": true
+    },
+    {
+      "index": "group-10-23",
+      "value": true
+    },
+    {
+      "index": "group-10-240",
+      "value": true
+    },
+    {
+      "index": "group-10-241",
+      "value": true
+    },
+    {
+      "index": "group-10-242",
+      "value": true
+    },
+    {
+      "index": "group-10-243",
+      "value": true
+    },
+    {
+      "index": "group-10-244",
+      "value": true
+    },
+    {
+      "index": "group-10-245",
+      "value": true
+    },
+    {
+      "index": "group-10-246",
+      "value": true
+    },
+    {
+      "index": "group-10-247",
+      "value": true
+    },
+    {
+      "index": "group-10-248",
+      "value": true
+    },
+    {
+      "index": "group-10-249",
+      "value": true
+    },
+    {
+      "index": "group-10-24",
+      "value": true
+    },
+    {
+      "index": "group-10-250",
+      "value": true
+    },
+    {
+      "index": "group-10-251",
+      "value": true
+    },
+    {
+      "index": "group-10-252",
+      "value": true
+    },
+    {
+      "index": "group-10-253",
+      "value": true
+    },
+    {
+      "index": "group-10-254",
+      "value": true
+    },
+    {
+      "index": "group-10-255",
+      "value": true
+    },
+    {
+      "index": "group-10-25",
+      "value": true
+    },
+    {
+      "index": "group-10-26",
+      "value": true
+    },
+    {
+      "index": "group-10-27",
+      "value": true
+    },
+    {
+      "index": "group-10-28",
+      "value": true
+    },
+    {
+      "index": "group-10-29",
+      "value": true
+    },
+    {
+      "index": "group-10-30",
+      "value": true
+    },
+    {
+      "index": "group-10-31",
+      "value": true
+    },
+    {
+      "index": "group-10-32",
+      "value": true
+    },
+    {
+      "index": "group-10-33",
+      "value": true
+    },
+    {
+      "index": "group-10-34",
+      "value": true
+    },
+    {
+      "index": "group-10-35",
+      "value": true
+    },
+    {
+      "index": "group-10-36",
+      "value": true
+    },
+    {
+      "index": "group-10-37",
+      "value": true
+    },
+    {
+      "index": "group-10-38",
+      "value": true
+    },
+    {
+      "index": "group-10-39",
+      "value": true
+    },
+    {
+      "index": "group-10-40",
+      "value": true
+    },
+    {
+      "index": "group-10-41",
+      "value": true
+    },
+    {
+      "index": "group-10-42",
+      "value": true
+    },
+    {
+      "index": "group-10-43",
+      "value": true
+    },
+    {
+      "index": "group-10-44",
+      "value": true
+    },
+    {
+      "index": "group-10-45",
+      "value": true
+    },
+    {
+      "index": "group-10-46",
+      "value": true
+    },
+    {
+      "index": "group-10-47",
+      "value": true
+    },
+    {
+      "index": "group-10-48",
+      "value": true
+    },
+    {
+      "index": "group-10-49",
+      "value": true
+    },
+    {
+      "index": "group-10-50",
+      "value": true
+    },
+    {
+      "index": "group-10-51",
+      "value": true
+    },
+    {
+      "index": "group-10-52",
+      "value": true
+    },
+    {
+      "index": "group-10-53",
+      "value": true
+    },
+    {
+      "index": "group-10-54",
+      "value": true
+    },
+    {
+      "index": "group-10-55",
+      "value": true
+    },
+    {
+      "index": "group-10-56",
+      "value": true
+    },
+    {
+      "index": "group-10-57",
+      "value": true
+    },
+    {
+      "index": "group-10-58",
+      "value": true
+    },
+    {
+      "index": "group-10-59",
+      "value": true
+    },
+    {
+      "index": "group-10-60",
+      "value": true
+    },
+    {
+      "index": "group-10-61",
+      "value": true
+    },
+    {
+      "index": "group-10-62",
+      "value": true
+    },
+    {
+      "index": "group-10-63",
+      "value": true
+    },
+    {
+      "index": "group-10-64",
+      "value": true
+    },
+    {
+      "index": "group-10-65",
+      "value": true
+    },
+    {
+      "index": "group-10-66",
+      "value": true
+    },
+    {
+      "index": "group-10-67",
+      "value": true
+    },
+    {
+      "index": "group-10-68",
+      "value": true
+    },
+    {
+      "index": "group-10-69",
+      "value": true
+    },
+    {
+      "index": "group-10-70",
+      "value": true
+    },
+    {
+      "index": "group-10-71",
+      "value": true
+    },
+    {
+      "index": "group-10-72",
+      "value": true
+    },
+    {
+      "index": "group-10-73",
+      "value": true
+    },
+    {
+      "index": "group-10-74",
+      "value": true
+    },
+    {
+      "index": "group-10-75",
+      "value": true
+    },
+    {
+      "index": "group-10-76",
+      "value": true
+    },
+    {
+      "index": "group-10-77",
+      "value": true
+    },
+    {
+      "index": "group-10-78",
+      "value": true
+    },
+    {
+      "index": "group-10-79",
+      "value": true
+    },
+    {
+      "index": "group-10-80",
+      "value": true
+    },
+    {
+      "index": "group-10-81",
+      "value": true
+    },
+    {
+      "index": "group-10-82",
+      "value": true
+    },
+    {
+      "index": "group-10-83",
+      "value": true
+    },
+    {
+      "index": "group-10-84",
+      "value": true
+    },
+    {
+      "index": "group-10-85",
+      "value": true
+    },
+    {
+      "index": "group-10-86",
+      "value": true
+    },
+    {
+      "index": "group-10-87",
+      "value": true
+    },
+    {
+      "index": "group-10-88",
+      "value": true
+    },
+    {
+      "index": "group-10-89",
+      "value": true
+    },
+    {
+      "index": "group-10-90",
+      "value": true
+    },
+    {
+      "index": "group-10-91",
+      "value": true
+    },
+    {
+      "index": "group-10-92",
+      "value": true
+    },
+    {
+      "index": "group-10-93",
+      "value": true
+    },
+    {
+      "index": "group-10-94",
+      "value": true
+    },
+    {
+      "index": "group-10-95",
+      "value": true
+    },
+    {
+      "index": "group-10-96",
+      "value": true
+    },
+    {
+      "index": "group-10-97",
+      "value": true
+    },
+    {
+      "index": "group-10-98",
+      "value": true
+    },
+    {
+      "index": "group-10-99",
+      "value": true
+    }
+  ]
+}

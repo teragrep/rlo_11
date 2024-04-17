@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "nomatch": "unknown",
+  "type": "string",
+  "table": [
+    {
+      "index": "f17",
+      "value": "f17"
+    },
+    {
+      "index": "archiver-test",
+      "value": "archiver-test"
+    },
+    {
+      "index": "f7a20104-flood-test.logGLOB",
+      "value": "flood-test"
+    },
+    {
+      "index": "52da2a11-log-1.logGLOB",
+      "value": "log-1"
+    },
+    {
+      "index": "1c30cfbb-log-2.logGLOB",
+      "value": "log-2"
+    },
+    {
+      "index": "4ff62fd0-log-3.logGLOB",
+      "value": "log-3"
+    },
+    {
+      "index": "cdee23c8-log-4.logGLOB",
+      "value": "log-4"
+    },
+    {
+      "index": "logproc-pstats",
+      "value": "logproc-pstats"
+    }
+  ]
+}

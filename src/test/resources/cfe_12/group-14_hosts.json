@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "nomatch": "unknown",
+  "type": "string",
+  "table": [
+    {
+      "index": "group-14-10",
+      "value": true
+    },
+    {
+      "index": "group-14-11",
+      "value": true
+    },
+    {
+      "index": "group-14-12",
+      "value": true
+    },
+    {
+      "index": "group-14-13",
+      "value": true
+    },
+    {
+      "index": "group-14-14",
+      "value": true
+    },
+    {
+      "index": "group-14-15",
+      "value": true
+    },
+    {
+      "index": "group-14-16",
+      "value": true
+    },
+    {
+      "index": "group-14-17",
+      "value": true
+    },
+    {
+      "index": "group-14-18",
+      "value": true
+    },
+    {
+      "index": "group-14-19",
+      "value": true
+    },
+    {
+      "index": "group-14-20",
+      "value": true
+    },
+    {
+      "index": "group-14-21",
+      "value": true
+    },
+    {
+      "index": "group-14-22",
+      "value": true
+    },
+    {
+      "index": "group-14-23",
+      "value": true
+    },
+    {
+      "index": "group-14-24",
+      "value": true
+    },
+    {
+      "index": "group-14-25",
+      "value": true
+    }
+  ]
+}

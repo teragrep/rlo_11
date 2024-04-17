@@ -1,0 +1,991 @@
+{
+  "version": 1,
+  "nomatch": "unknown",
+  "type": "string",
+  "table": [
+    {
+      "index": "group-11-100",
+      "value": true
+    },
+    {
+      "index": "group-11-101",
+      "value": true
+    },
+    {
+      "index": "group-11-102",
+      "value": true
+    },
+    {
+      "index": "group-11-103",
+      "value": true
+    },
+    {
+      "index": "group-11-104",
+      "value": true
+    },
+    {
+      "index": "group-11-105",
+      "value": true
+    },
+    {
+      "index": "group-11-106",
+      "value": true
+    },
+    {
+      "index": "group-11-107",
+      "value": true
+    },
+    {
+      "index": "group-11-108",
+      "value": true
+    },
+    {
+      "index": "group-11-109",
+      "value": true
+    },
+    {
+      "index": "group-11-10",
+      "value": true
+    },
+    {
+      "index": "group-11-110",
+      "value": true
+    },
+    {
+      "index": "group-11-111",
+      "value": true
+    },
+    {
+      "index": "group-11-112",
+      "value": true
+    },
+    {
+      "index": "group-11-113",
+      "value": true
+    },
+    {
+      "index": "group-11-114",
+      "value": true
+    },
+    {
+      "index": "group-11-115",
+      "value": true
+    },
+    {
+      "index": "group-11-116",
+      "value": true
+    },
+    {
+      "index": "group-11-117",
+      "value": true
+    },
+    {
+      "index": "group-11-118",
+      "value": true
+    },
+    {
+      "index": "group-11-119",
+      "value": true
+    },
+    {
+      "index": "group-11-11",
+      "value": true
+    },
+    {
+      "index": "group-11-120",
+      "value": true
+    },
+    {
+      "index": "group-11-121",
+      "value": true
+    },
+    {
+      "index": "group-11-122",
+      "value": true
+    },
+    {
+      "index": "group-11-123",
+      "value": true
+    },
+    {
+      "index": "group-11-124",
+      "value": true
+    },
+    {
+      "index": "group-11-125",
+      "value": true
+    },
+    {
+      "index": "group-11-126",
+      "value": true
+    },
+    {
+      "index": "group-11-127",
+      "value": true
+    },
+    {
+      "index": "group-11-128",
+      "value": true
+    },
+    {
+      "index": "group-11-129",
+      "value": true
+    },
+    {
+      "index": "group-11-12",
+      "value": true
+    },
+    {
+      "index": "group-11-130",
+      "value": true
+    },
+    {
+      "index": "group-11-131",
+      "value": true
+    },
+    {
+      "index": "group-11-132",
+      "value": true
+    },
+    {
+      "index": "group-11-133",
+      "value": true
+    },
+    {
+      "index": "group-11-134",
+      "value": true
+    },
+    {
+      "index": "group-11-135",
+      "value": true
+    },
+    {
+      "index": "group-11-136",
+      "value": true
+    },
+    {
+      "index": "group-11-137",
+      "value": true
+    },
+    {
+      "index": "group-11-138",
+      "value": true
+    },
+    {
+      "index": "group-11-139",
+      "value": true
+    },
+    {
+      "index": "group-11-13",
+      "value": true
+    },
+    {
+      "index": "group-11-140",
+      "value": true
+    },
+    {
+      "index": "group-11-141",
+      "value": true
+    },
+    {
+      "index": "group-11-142",
+      "value": true
+    },
+    {
+      "index": "group-11-143",
+      "value": true
+    },
+    {
+      "index": "group-11-144",
+      "value": true
+    },
+    {
+      "index": "group-11-145",
+      "value": true
+    },
+    {
+      "index": "group-11-146",
+      "value": true
+    },
+    {
+      "index": "group-11-147",
+      "value": true
+    },
+    {
+      "index": "group-11-148",
+      "value": true
+    },
+    {
+      "index": "group-11-149",
+      "value": true
+    },
+    {
+      "index": "group-11-14",
+      "value": true
+    },
+    {
+      "index": "group-11-150",
+      "value": true
+    },
+    {
+      "index": "group-11-151",
+      "value": true
+    },
+    {
+      "index": "group-11-152",
+      "value": true
+    },
+    {
+      "index": "group-11-153",
+      "value": true
+    },
+    {
+      "index": "group-11-154",
+      "value": true
+    },
+    {
+      "index": "group-11-155",
+      "value": true
+    },
+    {
+      "index": "group-11-156",
+      "value": true
+    },
+    {
+      "index": "group-11-157",
+      "value": true
+    },
+    {
+      "index": "group-11-158",
+      "value": true
+    },
+    {
+      "index": "group-11-159",
+      "value": true
+    },
+    {
+      "index": "group-11-15",
+      "value": true
+    },
+    {
+      "index": "group-11-160",
+      "value": true
+    },
+    {
+      "index": "group-11-161",
+      "value": true
+    },
+    {
+      "index": "group-11-162",
+      "value": true
+    },
+    {
+      "index": "group-11-163",
+      "value": true
+    },
+    {
+      "index": "group-11-164",
+      "value": true
+    },
+    {
+      "index": "group-11-165",
+      "value": true
+    },
+    {
+      "index": "group-11-166",
+      "value": true
+    },
+    {
+      "index": "group-11-167",
+      "value": true
+    },
+    {
+      "index": "group-11-168",
+      "value": true
+    },
+    {
+      "index": "group-11-169",
+      "value": true
+    },
+    {
+      "index": "group-11-16",
+      "value": true
+    },
+    {
+      "index": "group-11-170",
+      "value": true
+    },
+    {
+      "index": "group-11-171",
+      "value": true
+    },
+    {
+      "index": "group-11-172",
+      "value": true
+    },
+    {
+      "index": "group-11-173",
+      "value": true
+    },
+    {
+      "index": "group-11-174",
+      "value": true
+    },
+    {
+      "index": "group-11-175",
+      "value": true
+    },
+    {
+      "index": "group-11-176",
+      "value": true
+    },
+    {
+      "index": "group-11-177",
+      "value": true
+    },
+    {
+      "index": "group-11-178",
+      "value": true
+    },
+    {
+      "index": "group-11-179",
+      "value": true
+    },
+    {
+      "index": "group-11-17",
+      "value": true
+    },
+    {
+      "index": "group-11-180",
+      "value": true
+    },
+    {
+      "index": "group-11-181",
+      "value": true
+    },
+    {
+      "index": "group-11-182",
+      "value": true
+    },
+    {
+      "index": "group-11-183",
+      "value": true
+    },
+    {
+      "index": "group-11-184",
+      "value": true
+    },
+    {
+      "index": "group-11-185",
+      "value": true
+    },
+    {
+      "index": "group-11-186",
+      "value": true
+    },
+    {
+      "index": "group-11-187",
+      "value": true
+    },
+    {
+      "index": "group-11-188",
+      "value": true
+    },
+    {
+      "index": "group-11-189",
+      "value": true
+    },
+    {
+      "index": "group-11-18",
+      "value": true
+    },
+    {
+      "index": "group-11-190",
+      "value": true
+    },
+    {
+      "index": "group-11-191",
+      "value": true
+    },
+    {
+      "index": "group-11-192",
+      "value": true
+    },
+    {
+      "index": "group-11-193",
+      "value": true
+    },
+    {
+      "index": "group-11-194",
+      "value": true
+    },
+    {
+      "index": "group-11-195",
+      "value": true
+    },
+    {
+      "index": "group-11-196",
+      "value": true
+    },
+    {
+      "index": "group-11-197",
+      "value": true
+    },
+    {
+      "index": "group-11-198",
+      "value": true
+    },
+    {
+      "index": "group-11-199",
+      "value": true
+    },
+    {
+      "index": "group-11-19",
+      "value": true
+    },
+    {
+      "index": "group-11-200",
+      "value": true
+    },
+    {
+      "index": "group-11-201",
+      "value": true
+    },
+    {
+      "index": "group-11-202",
+      "value": true
+    },
+    {
+      "index": "group-11-203",
+      "value": true
+    },
+    {
+      "index": "group-11-204",
+      "value": true
+    },
+    {
+      "index": "group-11-205",
+      "value": true
+    },
+    {
+      "index": "group-11-206",
+      "value": true
+    },
+    {
+      "index": "group-11-207",
+      "value": true
+    },
+    {
+      "index": "group-11-208",
+      "value": true
+    },
+    {
+      "index": "group-11-209",
+      "value": true
+    },
+    {
+      "index": "group-11-20",
+      "value": true
+    },
+    {
+      "index": "group-11-210",
+      "value": true
+    },
+    {
+      "index": "group-11-211",
+      "value": true
+    },
+    {
+      "index": "group-11-212",
+      "value": true
+    },
+    {
+      "index": "group-11-213",
+      "value": true
+    },
+    {
+      "index": "group-11-214",
+      "value": true
+    },
+    {
+      "index": "group-11-215",
+      "value": true
+    },
+    {
+      "index": "group-11-216",
+      "value": true
+    },
+    {
+      "index": "group-11-217",
+      "value": true
+    },
+    {
+      "index": "group-11-218",
+      "value": true
+    },
+    {
+      "index": "group-11-219",
+      "value": true
+    },
+    {
+      "index": "group-11-21",
+      "value": true
+    },
+    {
+      "index": "group-11-220",
+      "value": true
+    },
+    {
+      "index": "group-11-221",
+      "value": true
+    },
+    {
+      "index": "group-11-222",
+      "value": true
+    },
+    {
+      "index": "group-11-223",
+      "value": true
+    },
+    {
+      "index": "group-11-224",
+      "value": true
+    },
+    {
+      "index": "group-11-225",
+      "value": true
+    },
+    {
+      "index": "group-11-226",
+      "value": true
+    },
+    {
+      "index": "group-11-227",
+      "value": true
+    },
+    {
+      "index": "group-11-228",
+      "value": true
+    },
+    {
+      "index": "group-11-229",
+      "value": true
+    },
+    {
+      "index": "group-11-22",
+      "value": true
+    },
+    {
+      "index": "group-11-230",
+      "value": true
+    },
+    {
+      "index": "group-11-231",
+      "value": true
+    },
+    {
+      "index": "group-11-232",
+      "value": true
+    },
+    {
+      "index": "group-11-233",
+      "value": true
+    },
+    {
+      "index": "group-11-234",
+      "value": true
+    },
+    {
+      "index": "group-11-235",
+      "value": true
+    },
+    {
+      "index": "group-11-236",
+      "value": true
+    },
+    {
+      "index": "group-11-237",
+      "value": true
+    },
+    {
+      "index": "group-11-238",
+      "value": true
+    },
+    {
+      "index": "group-11-239",
+      "value": true
+    },
+    {
+      "index": "group-11-23",
+      "value": true
+    },
+    {
+      "index": "group-11-240",
+      "value": true
+    },
+    {
+      "index": "group-11-241",
+      "value": true
+    },
+    {
+      "index": "group-11-242",
+      "value": true
+    },
+    {
+      "index": "group-11-243",
+      "value": true
+    },
+    {
+      "index": "group-11-244",
+      "value": true
+    },
+    {
+      "index": "group-11-245",
+      "value": true
+    },
+    {
+      "index": "group-11-246",
+      "value": true
+    },
+    {
+      "index": "group-11-247",
+      "value": true
+    },
+    {
+      "index": "group-11-248",
+      "value": true
+    },
+    {
+      "index": "group-11-249",
+      "value": true
+    },
+    {
+      "index": "group-11-24",
+      "value": true
+    },
+    {
+      "index": "group-11-250",
+      "value": true
+    },
+    {
+      "index": "group-11-251",
+      "value": true
+    },
+    {
+      "index": "group-11-252",
+      "value": true
+    },
+    {
+      "index": "group-11-253",
+      "value": true
+    },
+    {
+      "index": "group-11-254",
+      "value": true
+    },
+    {
+      "index": "group-11-255",
+      "value": true
+    },
+    {
+      "index": "group-11-25",
+      "value": true
+    },
+    {
+      "index": "group-11-26",
+      "value": true
+    },
+    {
+      "index": "group-11-27",
+      "value": true
+    },
+    {
+      "index": "group-11-28",
+      "value": true
+    },
+    {
+      "index": "group-11-29",
+      "value": true
+    },
+    {
+      "index": "group-11-30",
+      "value": true
+    },
+    {
+      "index": "group-11-31",
+      "value": true
+    },
+    {
+      "index": "group-11-32",
+      "value": true
+    },
+    {
+      "index": "group-11-33",
+      "value": true
+    },
+    {
+      "index": "group-11-34",
+      "value": true
+    },
+    {
+      "index": "group-11-35",
+      "value": true
+    },
+    {
+      "index": "group-11-36",
+      "value": true
+    },
+    {
+      "index": "group-11-37",
+      "value": true
+    },
+    {
+      "index": "group-11-38",
+      "value": true
+    },
+    {
+      "index": "group-11-39",
+      "value": true
+    },
+    {
+      "index": "group-11-40",
+      "value": true
+    },
+    {
+      "index": "group-11-41",
+      "value": true
+    },
+    {
+      "index": "group-11-42",
+      "value": true
+    },
+    {
+      "index": "group-11-43",
+      "value": true
+    },
+    {
+      "index": "group-11-44",
+      "value": true
+    },
+    {
+      "index": "group-11-45",
+      "value": true
+    },
+    {
+      "index": "group-11-46",
+      "value": true
+    },
+    {
+      "index": "group-11-47",
+      "value": true
+    },
+    {
+      "index": "group-11-48",
+      "value": true
+    },
+    {
+      "index": "group-11-49",
+      "value": true
+    },
+    {
+      "index": "group-11-50",
+      "value": true
+    },
+    {
+      "index": "group-11-51",
+      "value": true
+    },
+    {
+      "index": "group-11-52",
+      "value": true
+    },
+    {
+      "index": "group-11-53",
+      "value": true
+    },
+    {
+      "index": "group-11-54",
+      "value": true
+    },
+    {
+      "index": "group-11-55",
+      "value": true
+    },
+    {
+      "index": "group-11-56",
+      "value": true
+    },
+    {
+      "index": "group-11-57",
+      "value": true
+    },
+    {
+      "index": "group-11-58",
+      "value": true
+    },
+    {
+      "index": "group-11-59",
+      "value": true
+    },
+    {
+      "index": "group-11-60",
+      "value": true
+    },
+    {
+      "index": "group-11-61",
+      "value": true
+    },
+    {
+      "index": "group-11-62",
+      "value": true
+    },
+    {
+      "index": "group-11-63",
+      "value": true
+    },
+    {
+      "index": "group-11-64",
+      "value": true
+    },
+    {
+      "index": "group-11-65",
+      "value": true
+    },
+    {
+      "index": "group-11-66",
+      "value": true
+    },
+    {
+      "index": "group-11-67",
+      "value": true
+    },
+    {
+      "index": "group-11-68",
+      "value": true
+    },
+    {
+      "index": "group-11-69",
+      "value": true
+    },
+    {
+      "index": "group-11-70",
+      "value": true
+    },
+    {
+      "index": "group-11-71",
+      "value": true
+    },
+    {
+      "index": "group-11-72",
+      "value": true
+    },
+    {
+      "index": "group-11-73",
+      "value": true
+    },
+    {
+      "index": "group-11-74",
+      "value": true
+    },
+    {
+      "index": "group-11-75",
+      "value": true
+    },
+    {
+      "index": "group-11-76",
+      "value": true
+    },
+    {
+      "index": "group-11-77",
+      "value": true
+    },
+    {
+      "index": "group-11-78",
+      "value": true
+    },
+    {
+      "index": "group-11-79",
+      "value": true
+    },
+    {
+      "index": "group-11-80",
+      "value": true
+    },
+    {
+      "index": "group-11-81",
+      "value": true
+    },
+    {
+      "index": "group-11-82",
+      "value": true
+    },
+    {
+      "index": "group-11-83",
+      "value": true
+    },
+    {
+      "index": "group-11-84",
+      "value": true
+    },
+    {
+      "index": "group-11-85",
+      "value": true
+    },
+    {
+      "index": "group-11-86",
+      "value": true
+    },
+    {
+      "index": "group-11-87",
+      "value": true
+    },
+    {
+      "index": "group-11-88",
+      "value": true
+    },
+    {
+      "index": "group-11-89",
+      "value": true
+    },
+    {
+      "index": "group-11-90",
+      "value": true
+    },
+    {
+      "index": "group-11-91",
+      "value": true
+    },
+    {
+      "index": "group-11-92",
+      "value": true
+    },
+    {
+      "index": "group-11-93",
+      "value": true
+    },
+    {
+      "index": "group-11-94",
+      "value": true
+    },
+    {
+      "index": "group-11-95",
+      "value": true
+    },
+    {
+      "index": "group-11-96",
+      "value": true
+    },
+    {
+      "index": "group-11-97",
+      "value": true
+    },
+    {
+      "index": "group-11-98",
+      "value": true
+    },
+    {
+      "index": "group-11-99",
+      "value": true
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "nomatch": "unknown",
+  "type": "string",
+  "table": [
+    {
+      "index": "f17",
+      "value": "test:f17:0"
+    },
+    {
+      "index": "archiver-test",
+      "value": "test:archiver-test:0"
+    },
+    {
+      "index": "f7a20104-flood-test.logGLOB",
+      "value": "test:flood-test:0"
+    },
+    {
+      "index": "52da2a11-log-1.logGLOB",
+      "value": "test:log-1:0"
+    },
+    {
+      "index": "1c30cfbb-log-2.logGLOB",
+      "value": "test:log-2:0"
+    },
+    {
+      "index": "4ff62fd0-log-3.logGLOB",
+      "value": "test:log-3:0"
+    },
+    {
+      "index": "cdee23c8-log-4.logGLOB",
+      "value": "test:log-4:0"
+    },
+    {
+      "index": "logproc-pstats",
+      "value": "test:logproc-pstats:0"
+    }
+  ]
+}

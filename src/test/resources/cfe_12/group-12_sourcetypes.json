@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "nomatch": "unknown",
+  "type": "string",
+  "table": [
+    {
+      "index": "0ff11b44-cpu",
+      "value": "teragrep:mon:cpu_log:0"
+    },
+    {
+      "index": "124f76f0-net",
+      "value": "teragrep:mon:net_log:0"
+    },
+    {
+      "index": "5a67ffae-pid-page-memory",
+      "value": "teragrep:mon:pid-page-memory_log:0"
+    },
+    {
+      "index": "62a28466-pid-disk",
+      "value": "teragrep:mon:pid-disk_log:0"
+    },
+    {
+      "index": "75c32eb2-pid-cpu",
+      "value": "teragrep:mon:pid-cpu_log:0"
+    },
+    {
+      "index": "7ee85a32-vmstat",
+      "value": "teragrep:mon:vmstat_log:0"
+    },
+    {
+      "index": "8411b757-fs-block",
+      "value": "teragrep:mon:fs-block_log:0"
+    },
+    {
+      "index": "afe23b85-io",
+      "value": "teragrep:mon:io_log:0"
+    },
+    {
+      "index": "dd731d68-fs-inode",
+      "value": "teragrep:mon:fs-inode_log:0"
+    }
+  ]
+}
