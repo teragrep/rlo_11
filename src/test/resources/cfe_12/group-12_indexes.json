@@ -1,0 +1,43 @@
+{
+  "nomatch": "unknown",
+  "table": [
+    {
+      "index": "0ff11b44-cpu",
+      "value": "cpu"
+    },
+    {
+      "index": "75c32eb2-pid-cpu",
+      "value": "cpu"
+    },
+    {
+      "index": "5a67ffae-pid-page-memory",
+      "value": "memory"
+    },
+    {
+      "index": "7ee85a32-vmstat",
+      "value": "memory"
+    },
+    {
+      "index": "124f76f0-net",
+      "value": "network"
+    },
+    {
+      "index": "8411b757-fs-block",
+      "value": "storage"
+    },
+    {
+      "index": "dd731d68-fs-inode",
+      "value": "storage"
+    },
+    {
+      "index": "afe23b85-io",
+      "value": "storage"
+    },
+    {
+      "index": "62a28466-pid-disk",
+      "value": "storage"
+    }
+  ],
+  "type": "string",
+  "version": 1
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "nomatch": "unknown",
+  "type": "string",
+  "table": [
+    {
+      "index": "group-one-host-one",
+      "value": "true"
+    },
+    {
+      "index": "group-one-host-two",
+      "value": "true"
+    }
+  ]
+}
